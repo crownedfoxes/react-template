@@ -1,7 +1,7 @@
 # React Template
 
-My personal React template using Typescript and Vite.
-Right now it's just the bare bones of the default Vite Typescript template for React.
+My personal React template using Typescript.
+Right now it's just the bare bones of the default create-react-app Typescript template for React.
 
 ## How to use
 

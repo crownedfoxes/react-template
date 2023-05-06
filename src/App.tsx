@@ -1,8 +1,8 @@
-import './App.css'
+import React from 'react'
 
-const App = () => {
+function App() {
   return (
-    <h1>Vite + React + Typescript</h1>
+    <h1>React + Typescript</h1>
   )
 }
 
